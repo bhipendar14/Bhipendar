@@ -70,4 +70,4 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## 📧 Contact
 For any queries or suggestions, feel free to reach out:  
-[LinkedIn](https://www.linkedin.com/in/bhipendar-kumar-b5068626a) | [Email](bhipendarkumar31@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/bhipendar-kumar-b5068626a) 
