@@ -1,6 +1,6 @@
 # Java CRUD Banking Website
 
-![Project Banner](https://via.placeholder.com/1200x400.png?text=Java+CRUD+Banking+Website)  
+
 
 A Java-based banking website designed to perform CRUD (Create, Read, Update, Delete) operations. This project demonstrates robust backend functionality with a secure and intuitive user interface.
 
